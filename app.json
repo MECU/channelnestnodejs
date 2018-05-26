@@ -1,0 +1,7 @@
+{
+    "name": "ChannelNest NodeJS Style",
+    "description": "A barebones Node.js app using Express 4",
+    "repository": "https://github.com/mecu/channelnestnodejs",
+    "keywords": ["node", "express", "heroku"],
+    "image": "heroku/nodejs"
+  }
